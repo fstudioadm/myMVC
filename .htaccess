@@ -1,0 +1,2 @@
+RewriteEngine On
+RewiriteRule ^(.*)$ /public/$1
